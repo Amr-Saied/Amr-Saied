@@ -5,6 +5,9 @@
 <img src="https://github.com/user-attachments/assets/34d96d13-d491-4aac-8cee-9dfd78805839" alt="Just coding" width="100%">
 </div>
 
+<br/>
+<br/>
+
 <!-- Tech Stack Icons -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python Logo" />
@@ -20,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt=".NET Core Logo" />
 </div>
 
+<br/>
+<br/>
 <br/>
 
 <!-- Joke Card -->
