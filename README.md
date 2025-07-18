@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/34d96d13-d491-4aac-8cee-9dfd78805839" alt="Just coding">
+<img src="https://github.com/user-attachments/assets/34d96d13-d491-4aac-8cee-9dfd78805839" alt="Just coding" width="100%">
 </div>
 
 <!-- Tech Stack Icons -->
