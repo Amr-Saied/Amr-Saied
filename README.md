@@ -1,9 +1,11 @@
 <h1 align="center">🌍 Hello, World!</h1>
 
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/34d96d13-d491-4aac-8cee-9dfd78805839" alt="Just coding" width="100%">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5021be27-df85-44a6-8900-871b9418d715" alt="Image 1" width=100% /> 
+  <br/><br/> 
+<!--   <img src="https://github.com/user-attachments/assets/4baa6bec-3cdf-43e4-a850-01d8f8eb2af2" alt="Image 2" width="700" /> -->
+</p>
 
 <br/>
 <br/>
