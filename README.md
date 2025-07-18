@@ -1,11 +1,9 @@
 <h1 align="center">🌍 Hello, World!</h1>
 
-<!-- Joke Card -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke Generator" />
-</p>
 
-<br/>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/34d96d13-d491-4aac-8cee-9dfd78805839" alt="Just coding">
+</div>
 
 <!-- Tech Stack Icons -->
 <div align="center">
@@ -24,6 +22,11 @@
 
 <br/>
 
+<!-- Joke Card -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke Generator" />
+</p>
+<br/>
 <!-- Contact Section -->
 <div align="center">
   <a href="https://www.linkedin.com/in/amr-saied-2241b5220/" target="_blank">
