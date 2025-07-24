@@ -7,12 +7,14 @@
 
 <br/>
 
-<!-- Bio Section -->
-<p style="font-size: 18px; line-height: 1.6; max-width: 900px; margin: auto; text-align: justify;">
- 👨‍💻 I'm <strong>Amr-Saied</strong>, an aspiring <strong>.NET Back-End Engineer</strong> from <strong>Egypt</strong> and a proud graduate of <strong>Ain Shams University</strong>.
- With a strong foundation in <strong>Object-Oriented Programming (OOP)</strong>, <strong>Data Structures</strong>, and <strong>Algorithms</strong>, I’m passionate about building scalable, maintainable, and high-performance backend systems.
- I’m currently focused on building Backend Projects and pursuing a future in <strong>Web Development</strong> or other <strong>Software Engineering</strong> roles.
-</p>
+<div style="max-width: 900px; margin: auto; text-align: left;">
+    <ul style="list-style-type: disc; font-size: 18px; line-height: 1.6; padding-left: 20px;">
+        <li>👨‍💻 I'm **Amr-Saied**, an aspiring **.NET Back-End Engineer** from **Egypt**.</li>
+        <li>I'm a proud graduate of **Ain Shams University**, with a strong foundation in **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.</li>
+        <li>My passion lies in building scalable, maintainable, and high-performance **backend systems**.</li>
+        <li>Currently, I'm focused on developing **Backend Projects** and aiming for a future in **Web Development** or other **Software Engineering** roles.</li>
+    </ul>
+</div>
 
 
 <br/>
