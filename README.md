@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Bio Section -->
-<p style="font-size: 18px; line-height: 1.6; max-width: 900px; margin-left: 0; margin-right: auto; text-align: left;">
+<p style="font-size: 18px; line-height: 1.6; max-width: 900px; margin: auto; text-align: justify;">
  👨‍💻 I'm <strong>Amr-Saied</strong>, an aspiring <strong>.NET Back-End Engineer</strong> from <strong>Egypt</strong> and a proud graduate of <strong>Ain Shams University</strong>.
  With a strong foundation in <strong>Object-Oriented Programming (OOP)</strong>, <strong>Data Structures</strong>, and <strong>Algorithms</strong>, I’m passionate about building scalable, maintainable, and high-performance backend systems.
  I’m currently focused on building Backend Projects and pursuing a future in <strong>Web Development</strong> or other <strong>Software Engineering</strong> roles.
