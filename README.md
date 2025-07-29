@@ -7,6 +7,12 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AmrSaied.AmrSaied" alt="Visitors Count" />
+</p>
+
+<br/>
+
 <div style="max-width: 900px; margin: auto; text-align: left;">
     <ul style="list-style-type: disc; font-size: 18px; line-height: 1.6; padding-left: 20px;">
         <li>👨‍💻 I'm **Amr-Saied**, an aspiring **.NET Back-End Engineer** from **Egypt**.</li>
