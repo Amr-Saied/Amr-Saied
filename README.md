@@ -13,14 +13,26 @@
 
 <br/>
 
-<div style="max-width: 900px; margin: auto; text-align: left;">
-    <ul style="list-style-type: disc; font-size: 18px; line-height: 1.6; padding-left: 20px;">
-        <li>👨‍💻 I'm **Amr-Saied**, an aspiring **.NET Back-End Engineer** from **Egypt**.</li>
-        <li>I'm a proud graduate of **Ain Shams University**, with a strong foundation in **Object-Oriented Programming (OOP)**, **Data Structures**, and **Algorithms**.</li>
-        <li>My passion lies in building scalable, maintainable, and high-performance **backend systems**.</li>
-        <li>Currently, I'm focused on developing **Backend Projects** and aiming for a future in **Web Development** or other **Software Engineering** roles.</li>
-    </ul>
+<div style="max-width: 900px; margin: 40px auto; padding: 30px; background: #f9f9f9; border-radius: 16px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <ul style="list-style-type: none; padding-left: 0; font-size: 18px; line-height: 1.8; color: #333;">
+    <li style="margin-bottom: 12px;">
+      <span style="font-size: 22px;">👨‍💻</span> 
+      <strong>I'm <span style="color: #0066cc;">Amr-Saied</span></strong>, an aspiring <strong style="color: #444;">.NET Back-End Engineer</strong> from <strong>Egypt</strong>.
+    </li>
+    <li style="margin-bottom: 12px;">
+      I'm a proud graduate of <strong style="color: #b52e31;">Ain Shams University</strong>, with a strong foundation in 
+      <strong>Object-Oriented Programming (OOP)</strong>, <strong>Data Structures</strong>, and <strong>Algorithms</strong>.
+    </li>
+    <li style="margin-bottom: 12px;">
+      My passion lies in building <strong style="color: #2c974b;">scalable</strong>, <strong style="color: #2c974b;">maintainable</strong>, and <strong style="color: #2c974b;">high-performance</strong> backend systems.
+    </li>
+    <li style="margin-bottom: 12px;">
+      Currently, I'm focused on developing <strong style="color: #e36209;">Backend Projects</strong> and aiming for a future in 
+      <strong style="color: #e36209;">Web Development</strong> or other <strong>Software Engineering</strong> roles.
+    </li>
+  </ul>
 </div>
+
 
 
 <br/>
